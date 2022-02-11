@@ -1,5 +1,5 @@
 {
-    "name": "sergeynezbritskiy/privatbank-api",
+    "name": "sergeynezbritskiy/privatbank-api-fixed",
     "description": "Library for connecting to PrivatBank API",
     "type": "library",
     "license": "MIT",
